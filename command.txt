@@ -3,3 +3,11 @@ git status
 git rm --cached
 git restore
 git commit -m
+git push origin
+git switch-c feature/login-api
+git remote -v
+git push origin master
+
+
+
+this is new change
